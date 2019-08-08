@@ -1,17 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-''' genomePlot.py
-	
-    libraries to create plots of genome regions
-
+''' genomePlot.py	
+        Library to create plots of genome regions
 '''
 
 __author__ = "Carlos Morcillo-Suarez"
 __license__ = "GPL"
-__version__ = "2019/08/08 10:58" # YYYY/MM/DD HH:MM
+__version__ = "2019/08/08 12:03" # YYYY/MM/DD HH:MM
 __email__ = "carlos.morcillo.upf.edu@gmail.com"
-__copyright__ = "Copyright 2018, Carlos Morcillo-Suarez"
+__copyright__ = "Copyright 2019, Carlos Morcillo-Suarez"
 
 import matplotlib.pyplot as plt
 
